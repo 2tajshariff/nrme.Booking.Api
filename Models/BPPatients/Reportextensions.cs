@@ -1,0 +1,10 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace nrme.Booking.Api.Models.BPPatients
+{
+    public partial class Reportextensions
+    {
+        public string Extension { get; set; }
+    }
+}
